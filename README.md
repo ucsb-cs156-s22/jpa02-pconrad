@@ -1,5 +1,7 @@
 # STARTER-jpa02
 
+This is a demo for Diego
+
 * TODO: Change the title of this README 
   in the text `# STARTER-jpa02` above
   to match the name of your repo, i. e., `jpa02-yourgithubid`, then delete
